@@ -1,3 +1,3 @@
 # Animation
 
-This repo is for simple Animation Overview
+This repo is for simple Animation overview
